@@ -22,4 +22,13 @@ def output_array(array)
   end
 end
 
+def return_string_array(array)
+  n = 0
+  while n < array.length do 
+    return array.to_s
+    n += 1 
+  end 
+end 
+
+
   
