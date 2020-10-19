@@ -16,10 +16,10 @@ end
 
 def output_array(array)
   n = 0
-  while array[n] do 
-    puts array[n] 
-    n += 1 
-  end 
-end 
+  while array[n] do
+    puts array[n]
+    n += 1
+  end
+end
 
   
